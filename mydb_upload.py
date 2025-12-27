@@ -1,11 +1,11 @@
 import subprocess
 import os
 def restore_mysql():
-    host = "localhost"
-    user = "root"
-    password = "ghost"
-    database = "mydb"
-    dump_file = "/home/roubish/Documents/robo_demo/pispl.dump"
+    host = "../.."
+    user = "../.."
+    password = "../.."
+    database = "../.."
+    dump_file = "../.."
     env = os.environ.copy()
     env["MYSQL_PWD"] = password
     # Step 1: Create DB if not exists
