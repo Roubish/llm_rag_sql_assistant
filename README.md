@@ -33,9 +33,9 @@ The assistant supports multi-turn conversations, intelligent SQL generation, aut
 - **Prompt engineering** for structured and syntactically correct SQL output.
 
 - Impact:
-- Reduced manual SQL query effort by 80% for non-technical users.
-- Enabled fast insights and reporting from MySQL databases using natural language commands.
-- Improved productivity and accuracy by combining AI-driven query generation with safe database practices.
+  - Reduced manual SQL query effort by 80% for non-technical users.
+  - Enabled fast insights and reporting from MySQL databases using natural language commands.
+  - Improved productivity and accuracy by combining AI-driven query generation with safe database practices.
 
 ---
 
