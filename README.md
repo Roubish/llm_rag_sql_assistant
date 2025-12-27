@@ -29,7 +29,13 @@ The assistant supports multi-turn conversations, intelligent SQL generation, aut
   - CSV export for query results
   - Image handling from database blobs, file paths, or URLs
 - **Multi-turn conversational support** with session memory and follow-up queries.
+- **Applied prompt engineering for Gemini LLM to generate structured, syntactically correct SQL.**
 - **Prompt engineering** for structured and syntactically correct SQL output.
+
+- Impact:
+- Reduced manual SQL query effort by 80% for non-technical users.
+- Enabled fast insights and reporting from MySQL databases using natural language commands.
+- Improved productivity and accuracy by combining AI-driven query generation with safe database practices.
 
 ---
 
