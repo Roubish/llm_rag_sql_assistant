@@ -38,5 +38,5 @@ The assistant supports multi-turn conversations, intelligent SQL generation, aut
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/llm_rag_sql_assistant.git
+git clone git@github.com:Roubish/llm_rag_sql_assistant.git
 cd llm_rag_sql_assistant
